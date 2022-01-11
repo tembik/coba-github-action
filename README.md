@@ -1,1 +1,1 @@
-latihan menggunakan github action
+latihan menggunakan github action untuk deploy ke shared hosting
